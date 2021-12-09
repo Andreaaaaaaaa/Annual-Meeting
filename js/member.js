@@ -24,7 +24,7 @@ var member=[
     {"phone":"No.23","name":"蚁颖"},
     {"phone":"No.24","name":"黄健华"},
     {"phone":"No.25","name":"满孝曼"},
-    {"phone":"No.26","name":"邱莎莎"},
+    {"phone":"No.26","name":"邱莎"},
     {"phone":"No.27","name":"古晓筠"},
     {"phone":"No.28","name":"周明燕"},
     {"phone":"No.29","name":"李铭"},
